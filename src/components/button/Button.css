@@ -1,0 +1,20 @@
+.button {
+    width: 10rem;
+    height: 3rem;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    font-size: 1.2rem;
+    gap: 0.5rem;
+}
+.bg-blue{
+    background-color: #003459;
+}
+.bg-transparent{
+    border: 2px solid #003459;
+    background-color: transparent;
+    color: #003459;
+}

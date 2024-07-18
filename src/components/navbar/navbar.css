@@ -1,0 +1,14 @@
+.navbar-nav-lists {
+    display: flex;
+    list-style-type: none;
+    gap: 4rem;
+    color: #003459;
+}
+.font-bold{
+    font-weight: bold;
+}
+@media (max-width:930px){
+    ul{
+        display: none !important;
+    }
+}
